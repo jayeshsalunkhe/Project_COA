@@ -39,12 +39,9 @@
       <a href="#getting-started">Getting Started</a>
       <ul>
         <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
@@ -130,5 +127,15 @@ Snapshot of Frontend
 <h3>
 Snapshot of Backend
 </h3>
+</p>
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+## Acknowledgement
+
+<p>
+<h3>
+Acknowledgements
+</h3>
+<p>We would look like to dedicate this project <a href="https://iitgn.ac.in/faculty/cse/sameer">  Sameer G Kulkarni</a>. Because of his dedication in teaching and giving a course project. We could make this project</p>
 </p>
 <p align="right">(<a href="#top">back to top</a>)</p>
