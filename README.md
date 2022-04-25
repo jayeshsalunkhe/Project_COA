@@ -66,6 +66,8 @@ The Project uses the below Tech Stack
 
 * [React.js](https://reactjs.org/)
 * [Flask](https://flask.palletsprojects.com/en/2.1.x/)
+* [Ant Design](https://ant.design/)
+
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
