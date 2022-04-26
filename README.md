@@ -9,8 +9,8 @@
   <h3 align="center">MIPS Assembler/Dissassembler</h3>
 
 <div style="list-style: none;">
-    <div>Jayesh Salunkhe 18110014</div>
-    <div>Mohammad Amir Sohail 18110034</div>
+    <div>Jayesh Salunkhe 18110072</div>
+    <div>Mohammad Amir Sohail 19110188</div>
     <div>Taha Mohammad Syed 18110169</div>
     <div>Vaibhav Khandare 18110180</div>
   </div>
