@@ -5,7 +5,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/IIT_Gandhinagar_Logo.svg/220px-IIT_Gandhinagar_Logo.svg.png" alt="Logo" width="200" height="200">
   </a>
 
-  <h4 align="center">ES 215 Project</h4>
+  <h4 align="center">CS 215 Project</h4>
   <h3 align="center">MIPS Assembler/Dissassembler</h3>
 
 <div style="list-style: none;">
@@ -81,7 +81,7 @@ The Project uses the below Tech Stack
 ## Getting Started
 
 Clone The Above Repo in your Local System or execute in Terminal
-* git clone https://github.com/VaibhavKhandare/mips_assesmbler_disassmbler.git
+* git clone https://github.com/jayeshsalunkhe/Project_COA.git
 
 ### Prerequisites
 
