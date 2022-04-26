@@ -1,7 +1,7 @@
 from flask import Flask,jsonify,request
 from flask_cors import CORS
-from vaibhav_assembler import assemblercode
-from vaibhav_disassembler import disassemblercode
+from MIPS_assembler import assemblercode
+from MIPS_disassembler import disassemblercode
 
 app = Flask(__name__)
 CORS(app)
