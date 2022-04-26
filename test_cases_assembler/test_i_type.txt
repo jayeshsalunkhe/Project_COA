@@ -1,0 +1,17 @@
+beq $t0, $t1, 2400
+bne $t0, $t1, 2400
+addi $t0, $t1, 1000
+addiu $t0, $t1, 1000
+andi $t0, $t1, 1000
+lbu $t0, 4($t1)
+lhu $t0, 4($t1)
+ll $t0, $t1, 1000
+lui $t0,1000
+lw $t0, 4($t1)
+ori $t0, $t1, 1000
+slti $t0, $t1, 1000
+sb $t0, 4($t1)
+sc $t0, 4($t1)
+sh $t0, 4($t1)
+sw $t0, 4($t1)
+sltiu $t0, $t1, 1000

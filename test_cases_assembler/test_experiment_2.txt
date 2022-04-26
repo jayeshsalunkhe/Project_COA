@@ -1,0 +1,14 @@
+Max: 
+ lw $t0, 0($a0)
+ addi $t1, $zero, 1 
+Loop:
+ beq $t1, $a1, Exit
+ addi $a0, $a0, 4 
+ addi $t1, $t1, 1 
+ lw $t2, 0($a0)
+ slt  $t3, $t2, $t0
+ bne $t3, $zero, End_if 
+ lw $t0, 0($t2) 
+End_if:
+ j Loop 
+Exit:

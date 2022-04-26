@@ -1,0 +1,17 @@
+add $t0 ,$t1 ,$t2
+addu $t0 ,$t1 ,$t2
+and $t0, $t1, $t2
+nor $t0, $t1, $t2
+or $t0, $t1, $t2
+slt $t0, $t1, $t2
+sltu $t0, $t1, $t2
+sll $t0, $t1, 4
+srl $t0, $t1, 4
+sub $t0, $t1, $t2
+subu $t0, $t1, $t2
+div $t0, $t1, $t2
+divu $t0, $t1, $t2
+mfhi $t0, $t1, $t2
+mult $t0, $t1, $t2
+multu $t0, $t1, $t2
+jr $ra
